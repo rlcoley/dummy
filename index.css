@@ -1,4 +1,12 @@
 body{
   background-color: teal;
-  
+
+}
+
+.static{
+  background-image: url("static-img.jpeg");
+}
+
+.gear{
+  background-image: url("gear.jpeg");
 }
